@@ -1,14 +1,14 @@
 # todoListApi
 Proyecto con Node JS
 
-##Actualizar librerias
+## Actualizar librerias
 
 $ npm install -g npm-check-updates
 
 $ npm update
 
 
-#Run
+# Run
 
 $ npm run start
 
